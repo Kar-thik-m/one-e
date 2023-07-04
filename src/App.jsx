@@ -28,7 +28,7 @@ function App() {
               </ul>
 
               <div class="d-grid">
-                <a href="#" class="btn btn-primary text-uppercase">Button</a>
+                <button type="button" class="btn btn-lg btn-primary" disabled>Button</button>
               </div>
             </div>
           </div>
@@ -59,7 +59,7 @@ function App() {
               </ul>
 
               <div class="d-grid">
-                <a href="#" class="btn btn-primary text-uppercase">Button</a>
+                <button type="button" class="btn btn-lg btn-primary" disabled>Button</button>
               </div>
             </div>
           </div>
@@ -88,7 +88,7 @@ function App() {
               </ul>
 
               <div class="d-grid">
-                <a href="#" class="btn btn-primary text-uppercase">Button</a>
+               <button type="button" class="btn btn-lg btn-primary" disabled>Button</button>
               </div>
             </div>
           </div>
